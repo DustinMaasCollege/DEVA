@@ -249,4 +249,4 @@ Veel succes met je opdracht! 🚀💻
 
 **Gemaakt voor:** Maas College Sollicitatie Proces  
 **Laravel Versie:** 12.x  
-**Datum:** December 2024  
+**Datum:** Januari 2026
